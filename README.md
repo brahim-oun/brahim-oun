@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brahim-oun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front end devlopement
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on website project
 - 📫 Mail : brahouma37@gmail.com / Instagram: https://www.instagram.com/brahim_oun/
 
 <!---
